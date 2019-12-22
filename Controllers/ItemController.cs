@@ -67,7 +67,7 @@ namespace CosmosAPI.Controllers
             return Ok();
         }
 
-        [HttpDelete("{id")]
+        [HttpDelete("{id}")]
         public async Task<IActionResult> Delete(string id)
         {
             await _documentClient.DeleteDocumentAsync(UriFactory.CreateDocumentUri(databaseId, collectionId, id));
