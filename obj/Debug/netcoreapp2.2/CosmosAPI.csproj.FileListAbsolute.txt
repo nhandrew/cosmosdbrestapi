@@ -4,7 +4,6 @@
 /Users/andrewjulow/Projects/CosmosAPI/CosmosAPI/bin/Debug/netcoreapp2.2/CosmosAPI.dll
 /Users/andrewjulow/Projects/CosmosAPI/CosmosAPI/bin/Debug/netcoreapp2.2/CosmosAPI.pdb
 /Users/andrewjulow/Projects/CosmosAPI/CosmosAPI/obj/Debug/netcoreapp2.2/CosmosAPI.csprojAssemblyReference.cache
-/Users/andrewjulow/Projects/CosmosAPI/CosmosAPI/obj/Debug/netcoreapp2.2/CosmosAPI.csproj.CoreCompileInputs.cache
 /Users/andrewjulow/Projects/CosmosAPI/CosmosAPI/obj/Debug/netcoreapp2.2/CosmosAPI.RazorAssemblyInfo.cache
 /Users/andrewjulow/Projects/CosmosAPI/CosmosAPI/obj/Debug/netcoreapp2.2/CosmosAPI.RazorAssemblyInfo.cs
 /Users/andrewjulow/Projects/CosmosAPI/CosmosAPI/obj/Debug/netcoreapp2.2/CosmosAPI.AssemblyInfoInputs.cache
@@ -14,3 +13,6 @@
 /Users/andrewjulow/Projects/CosmosAPI/CosmosAPI/obj/Debug/netcoreapp2.2/CosmosAPI.pdb
 /Users/andrewjulow/Projects/CosmosAPI/CosmosAPI/bin/Debug/netcoreapp2.2/Microsoft.Azure.Documents.ServiceInterop.dll
 /Users/andrewjulow/Projects/CosmosAPI/CosmosAPI/bin/Debug/netcoreapp2.2/Cosmos.CRTCompat.dll
+/Users/andrewjulow/Projects/CosmosAPI/CosmosAPI/bin/Debug/netcoreapp2.2/appsettings.Development.json
+/Users/andrewjulow/Projects/CosmosAPI/CosmosAPI/bin/Debug/netcoreapp2.2/appsettings.json
+/Users/andrewjulow/Projects/CosmosAPI/CosmosAPI/bin/Debug/netcoreapp2.2/Properties/launchSettings.json
